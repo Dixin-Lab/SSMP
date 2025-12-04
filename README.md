@@ -1,4 +1,4 @@
-## Self-Paced and Self-Corrective Masked Prediction for Movie Trailer Generation
+# Self-Paced and Self-Corrective Masked Prediction for Movie Trailer Generation
 
-### 🎥 Demo
+## 🎥 Demo
 
